@@ -1,0 +1,12 @@
+In Play Music function
+>Pause = Done
+>Resume = Done
+>Stop = Done
+>Next = Done
+>Forward = Done
+>Vol Up = Done
+>Vol Down = Done
+>Check that loop working
+  If going to next song automatically **Not working**
+
+Last done on 29/08,1:15pm
